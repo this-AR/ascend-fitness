@@ -1,0 +1,93 @@
+Bench press|chest|triceps,shoulders|Barbell|W|0.8|0
+Incline bench press|chest|shoulders,triceps|Barbell|W|0.7|0
+Decline bench press|chest|triceps|Barbell|W|0.85|0
+Close-grip bench press|triceps|chest,shoulders|Barbell|W|0.7|0
+Overhead press|shoulders|triceps,traps|Barbell|W|0.55|0
+Push press|shoulders|triceps,quads|Barbell|W|0.7|0
+Squat|quads|glutes,hamstrings,lowerback|Barbell|W|1.15|0
+Front squat|quads|glutes,abs|Barbell|W|0.95|0
+Deadlift|hamstrings|glutes,lowerback,traps,forearms|Barbell|W|1.4|0
+Sumo deadlift|glutes|quads,hamstrings,lowerback|Barbell|W|1.4|0
+Romanian deadlift|hamstrings|glutes,lowerback|Barbell|W|1.0|0
+Barbell row|upperback|lats,biceps|Barbell|W|0.75|0
+Pendlay row|upperback|lats,biceps|Barbell|W|0.7|0
+Barbell hip thrust|glutes|hamstrings|Barbell|W|1.3|0
+Barbell curl|biceps|forearms|Barbell|W|0.4|0
+Skull crusher|triceps||Barbell|W|0.35|0
+Power clean|traps|quads,glutes,hamstrings|Barbell|W|0.75|0
+Good morning|hamstrings|lowerback,glutes|Barbell|W|0.6|0
+Barbell shrug|traps|forearms|Barbell|W|1.1|0
+Barbell lunge|quads|glutes|Barbell|W|0.6|0
+Upright row|shoulders|traps|Barbell|W|0.4|0
+Dumbbell bench press|chest|triceps,shoulders|Dumbbell|W|0.32|1
+Incline dumbbell press|chest|shoulders,triceps|Dumbbell|W|0.28|1
+Dumbbell shoulder press|shoulders|triceps|Dumbbell|W|0.22|1
+Arnold press|shoulders|triceps|Dumbbell|W|0.18|1
+Dumbbell row|lats|upperback,biceps|Dumbbell|W|0.35|1
+Dumbbell curl|biceps|forearms|Dumbbell|W|0.2|1
+Hammer curl|biceps|forearms|Dumbbell|W|0.22|1
+Concentration curl|biceps||Dumbbell|W|0.15|1
+Incline dumbbell curl|biceps||Dumbbell|W|0.15|1
+Lateral raise|shoulders||Dumbbell|W|0.1|1
+Front raise|shoulders||Dumbbell|W|0.1|1
+Rear delt fly|shoulders|upperback|Dumbbell|W|0.08|1
+Dumbbell fly|chest||Dumbbell|W|0.17|1
+Dumbbell lunge|quads|glutes|Dumbbell|W|0.25|1
+Bulgarian split squat|quads|glutes|Dumbbell|W|0.25|1
+Goblet squat|quads|glutes|Dumbbell|W|0.45|0
+Dumbbell Romanian deadlift|hamstrings|glutes|Dumbbell|W|0.35|1
+Dumbbell shrug|traps||Dumbbell|W|0.45|1
+Overhead triceps extension|triceps||Dumbbell|W|0.2|0
+Triceps kickback|triceps||Dumbbell|W|0.08|1
+Dumbbell pullover|lats|chest|Dumbbell|W|0.25|0
+Dumbbell step-up|quads|glutes|Dumbbell|W|0.25|1
+Kettlebell swing|glutes|hamstrings,lowerback|Kettlebell|W|0.4|0
+Lat pulldown|lats|biceps|Cable|W|0.75|0
+Seated cable row|upperback|lats,biceps|Cable|W|0.75|0
+Cable fly|chest||Cable|W|0.25|0
+Triceps pushdown|triceps||Cable|W|0.4|0
+Cable curl|biceps||Cable|W|0.35|0
+Face pull|shoulders|upperback|Cable|W|0.3|0
+Cable lateral raise|shoulders||Cable|W|0.07|0
+Cable crunch|abs||Cable|W|0.6|0
+Leg press|quads|glutes|Machine|W|2.5|0
+Hack squat|quads|glutes|Machine|W|1.5|0
+Leg extension|quads||Machine|W|0.8|0
+Lying leg curl|hamstrings||Machine|W|0.6|0
+Seated leg curl|hamstrings||Machine|W|0.65|0
+Chest press machine|chest|triceps|Machine|W|0.8|0
+Shoulder press machine|shoulders|triceps|Machine|W|0.55|0
+Pec deck|chest||Machine|W|0.6|0
+T-bar row|upperback|lats,biceps|Machine|W|0.8|0
+Standing calf raise|calves||Machine|W|1.4|0
+Seated calf raise|calves||Machine|W|0.9|0
+Hip abduction|glutes||Machine|W|0.9|0
+Hip adduction|adductors||Machine|W|0.9|0
+Smith machine squat|quads|glutes|Machine|W|1.1|0
+Smith machine bench press|chest|triceps|Machine|W|0.75|0
+Pull-up|lats|biceps,upperback|Bodyweight|R|9|0
+Chin-up|lats|biceps|Bodyweight|R|10|0
+Push-up|chest|triceps,shoulders|Bodyweight|R|30|0
+Diamond push-up|triceps|chest|Bodyweight|R|20|0
+Pike push-up|shoulders|triceps|Bodyweight|R|15|0
+Handstand push-up|shoulders|triceps|Bodyweight|R|5|0
+Dip|triceps|chest,shoulders|Bodyweight|R|15|0
+Inverted row|upperback|lats,biceps|Bodyweight|R|15|0
+Muscle-up|lats|triceps,chest|Bodyweight|R|3|0
+Bodyweight squat|quads|glutes|Bodyweight|R|50|0
+Pistol squat|quads|glutes|Bodyweight|R|5|0
+Walking lunge|quads|glutes|Bodyweight|R|30|0
+Glute bridge|glutes|hamstrings|Bodyweight|R|30|0
+Nordic curl|hamstrings||Bodyweight|R|5|0
+Hanging leg raise|abs|obliques|Bodyweight|R|12|0
+Ab wheel rollout|abs||Bodyweight|R|12|0
+Sit-up|abs||Bodyweight|R|35|0
+Crunch|abs||Bodyweight|R|40|0
+Russian twist|obliques|abs|Bodyweight|R|40|0
+Jump squat|quads|glutes,calves|Bodyweight|R|25|0
+Back extension|lowerback|glutes,hamstrings|Bodyweight|R|20|0
+Band pull-apart|upperback|shoulders|Band|R|0|0
+Band row|upperback|lats,biceps|Band|R|0|0
+Band chest press|chest|triceps|Band|R|0|0
+Suspension row|upperback|lats,biceps|Suspension|R|0|0
+Suspension push-up|chest|triceps|Suspension|R|0|0

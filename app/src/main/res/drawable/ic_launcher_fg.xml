@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Launcher icon L1 "double chevron" (chosen 2026-11-26). -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="108dp" android:height="108dp"
+    android:viewportWidth="108" android:viewportHeight="108">
+    <path android:pathData="M30.2,64.2 L54.0,42.1 L77.8,64.2 L77.8,74.4 L54.0,52.3 L30.2,74.4 Z">
+        <aapt:attr name="android:fillColor">
+            <gradient android:type="linear" android:startX="30" android:startY="34" android:endX="78" android:endY="75">
+                <item android:offset="0" android:color="#FFFF4D1F" />
+                <item android:offset="1" android:color="#FFFFA03D" />
+            </gradient>
+        </aapt:attr>
+    </path>
+    <path android:fillColor="#FFF4F3F0" android:pathData="M37.0,48.9 L54.0,33.6 L71.0,48.9 L71.0,56.5 L54.0,41.2 L37.0,56.5 Z" />
+</vector>

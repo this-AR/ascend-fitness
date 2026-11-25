@@ -1,0 +1,18 @@
+# Build output
+.gradle/
+.kotlin/
+build/
+app/build/
+*.apk
+*.aab
+
+# Machine-specific and secret files: never commit
+local.properties
+keys/
+keystore.properties
+*.jks
+*.keystore
+*.p12
+*.pem
+.env
+*.txt.key
